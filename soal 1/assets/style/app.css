@@ -1,0 +1,63 @@
+body {
+    background-color:antiquewhite
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 180px;
+}
+
+.sayanggg {
+    width: 200px;
+}
+.profile h2 {
+    /* color: black; */
+    color: rgb(78, 78, 73);
+    padding-top: 20px; 
+}
+.profile h5 {
+    /* color: black; */
+    color: rgb(78, 78, 73);
+}
+.BIODATA {
+    background: linear-gradient(#fffeff 0%, #ffffffd5 40%, #fdfdfd00 100%);
+    padding-bottom: 280px;
+    padding-top: 20px;
+}
+.biodata-tittle {
+    color: rgb(78, 78, 73);
+    text-align: center;
+    margin-bottom: 40px;
+}
+.row {
+    padding-top: 0px 10px;
+}
+.EDUCATION {
+    color:  rgb(78, 78, 73);
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-block: 30px;
+}
+.education-tittle {
+    color: rgb(78, 78, 73);
+    font-size: 48px;
+    margin-bottom: 40px;
+}
+.footer {
+    background-color: #ffffff;
+    padding-bottom: 10px;
+}
+.CONTACT {
+    color: #9a08dd(255, 255, 255);
+    padding-top: 10px;
+    padding-bottom: 9px;
+    margin-bottom: 20px;
+}
+.watermark {
+    text-align: center;
+    margin-top: 60px;
+    font-size: 14px;
+}
